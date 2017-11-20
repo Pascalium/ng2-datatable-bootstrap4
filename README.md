@@ -50,4 +50,5 @@ MIT License
             </data-table-column>
 ```
 
+edit
 The column is only sortable if the property is in single quotes - removing these means that the row is not sortable - why?
